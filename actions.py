@@ -1,6 +1,7 @@
 import os
 import os.path
 import logging
+import random
 
 SUDO_PASSWORD = 'password'
 
